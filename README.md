@@ -1,6 +1,7 @@
 # ChatGPT: Smart assistant OR risky business?
 Studenten, docenten en onderzoekers hebben zich verdiept in verschillende aspecten van ChatGPT. OP 12 mei 2023 zijn [workshops en lezingen](https://www.hogeschoolrotterdam.nl/onderzoek/eventitem/ChatGPT/437968/) gehouden over de toekomst van werk, onderwijs en communicatie. 
 
+## WORSKHOPS
 
 | workshop | samenvatting |  auteur(s) |
 -----------|--------------|------------|
@@ -11,16 +12,20 @@ Studenten, docenten en onderzoekers hebben zich verdiept in verschillende aspect
 [Google BARD vs OpenAI ChatGPT](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/WORKSHOPS/E%20Workshop%20Google%20BARD%20vs%20OpenAI%20ChatGPT.pdf) | xxx | xxx |
 [ChatGPT and bias: building ethical and unbiased system](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/WORKSHOPS/G%20Workshop%20ChatGPT%20and%20bias%3B%20building%20ethical%20and%20unbiased%20systems.pdf) | xxx | xxx |
 [Discover the secrets to maximizing the potential of Chat GPT](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/WORKSHOPS/H%20Workshop%20Discover%20the%20secrets%20to%20maximizing%20the%20potential%20of%20Chat%20GPT.pdf) | xxx | xxx |
-[ ChatGPT making us dumber per smarter](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/WORKSHOPS/I%20Workshop%20Is%20ChatGPT%20making%20us%20dumber%20per%20smarter.pdf) | xxx | xxx |
+[ ChatGPT making us dumber per smarter](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/WORKSHOPS/I%20Workshop%20Is%20ChatGPT%20making%20us%20dumber%20per%20smarter.pdf)  | Definition of smart and dumb. / What is chatgpt? / How is it making us dumber? / How is it making us smarter? | Bartosz Ceglarek  / Salla Saarinen / Alessandro Crescenzo  <br> <br> |
 [ChatGPT vs Teacher](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/WORKSHOPS/J%20Workshop%20ChatGPT%20vs%20Teacher.pdf) | xxx | xxx |
 [Battle of the Brains](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/WORKSHOPS/L%20Workshop%20BATTLE%20OF%20THE%20BRAINS.pdf) | xxx | xxx |
 
+<br><br>
 
-| [Dumber versus Smarter](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/tree/main/WORKSHOPS/DUMBER-vs-SMARTER) | Definition of smart and dumb. / What is chatgpt? / How is it making us dumber? / How is it making us smarter? | Bartosz Ceglarek  / Salla Saarinen / Alessandro Crescenzo / Bartosz Ceglarek <br> <br> |
-| [ChatGPT versus Teacher](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/tree/main/WORKSHOPS/ChatGPT-vs-TEACHER) | xxx | xxx |
+## LEZINGEN
 
 | Lezing| samenvatting |  auteur(s) |
 -----------|--------------|------------|
-[xxx](xxx) | xxx | xxx
+| [How ChatGPT impacts business](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/LEZINGEN/Digital%20Sundai%20Robin%20Zondag%20Keynote%20CHATGPT.pdf) |   Keynote Lecture on ChatGPT | Robin Zondag, Digital Sundai |
+| [The Orchestration of Superminds](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/LEZINGEN/Lecture%20KCBI%20Annie%20Yang%20Orchestration_superminds.pdf) | Lecture: KCBI  | Annie Yang, Kenniscentrum
+Business Innovation |
+| [ChatGPT and Beyond](https://github.com/HR-ChatGPT/ChatGPT-Smart-assistant-or-risky-business/blob/main/LEZINGEN/Microsoft%20Emelie%20Hansman%20ChatGPT%20and%20Beyond%20-%20Hogeschool%20Rotterdam%20ChatGPT%20Seminar%20Presentation.pdf) | Lecture: Microsoft | Emelie Hansman, Microsoft|
 
 
+<br><br>
