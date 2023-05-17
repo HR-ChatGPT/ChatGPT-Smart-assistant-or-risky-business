@@ -1,7 +1,7 @@
 # ChatGPT: Smart assistant OR risky business?
 Studenten, docenten en onderzoekers hebben zich verdiept in verschillende aspecten van ChatGPT. Op 12 mei 2023 zijn tijdens een seminar een aantal workshops en lezingen gehouden over de toekomst van werk, onderwijs en communicatie. 
 
-## WORSKHOPS
+## WORKSHOPS
 
 | workshop | samenvatting |  auteur(s) |
 -----------|--------------|------------|
