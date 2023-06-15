@@ -32,4 +32,4 @@ Studenten, docenten en onderzoekers hebben zich verdiept in verschillende aspect
 <br><br>
 
 
-  [![HitCount](https://hits.dwyl.com/robvdw/https://githubcom/HR-ChatGPT/ChatGPT-UITGELEGD.svg?style=flat-square)](http://hits.dwyl.com/robvdw/https://githubcom/HR-ChatGPT/ChatGPT-UITGELEGD)
+
