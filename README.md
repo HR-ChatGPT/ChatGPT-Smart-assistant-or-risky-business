@@ -1,6 +1,8 @@
 # ChatGPT: Smart assistant OR risky business?
 Studenten, docenten en onderzoekers hebben zich verdiept in verschillende aspecten van ChatGPT. Op 12 mei 2023 zijn tijdens een seminar een aantal workshops en lezingen gehouden over de toekomst van werk, onderwijs en communicatie. 
 
+
+
 ## WORKSHOPS
 
 | workshop | samenvatting |  auteur(s) |
@@ -28,3 +30,6 @@ Studenten, docenten en onderzoekers hebben zich verdiept in verschillende aspect
 
 
 <br><br>
+
+
+  [![HitCount](https://hits.dwyl.com/robvdw/https://githubcom/HR-ChatGPT/ChatGPT-UITGELEGD.svg?style=flat-square)](http://hits.dwyl.com/robvdw/https://githubcom/HR-ChatGPT/ChatGPT-UITGELEGD)
